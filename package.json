@@ -13,7 +13,11 @@
     "type": "git",
     "url": "git+https://github.com/skylabcrgr-crypto/DetroitBoatLife.git"
   },
-  "keywords": ["boat rentals detroit", "jet ski rentals detroit", "michigan boating"],
+  "keywords": [
+    "boat rentals detroit",
+    "jet ski rentals detroit",
+    "michigan boating"
+  ],
   "author": "Boat Life Detroit LLC",
   "license": "ISC",
   "bugs": {
@@ -21,6 +25,7 @@
   },
   "homepage": "https://github.com/skylabcrgr-crypto/DetroitBoatLife#readme",
   "dependencies": {
+    "@tailwindcss/postcss": "^4.2.4",
     "@types/node": "^25.6.0",
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
