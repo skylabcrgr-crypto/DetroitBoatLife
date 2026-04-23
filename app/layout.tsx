@@ -40,11 +40,13 @@ export const metadata: Metadata = {
     siteName: siteConfig.name,
     title: `${siteConfig.name} — Michigan's Boating Hub`,
     description: siteConfig.description,
+    images: [{ url: "/images/og-image.jpg", width: 1200, height: 630, alt: "Boat Life Detroit — Michigan's Boating Hub" }],
   },
   twitter: {
     card: "summary_large_image",
     title: `${siteConfig.name} — Michigan's Boating Hub`,
     description: siteConfig.description,
+    images: ["/images/og-image.jpg"],
   },
   robots: {
     index: true,
