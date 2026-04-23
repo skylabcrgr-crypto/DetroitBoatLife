@@ -1,0 +1,39 @@
+{
+  "name": "detroitboatlife",
+  "version": "1.0.0",
+  "description": "Boat Life Detroit — Michigan's Boating Hub",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skylabcrgr-crypto/DetroitBoatLife.git"
+  },
+  "keywords": ["boat rentals detroit", "jet ski rentals detroit", "michigan boating"],
+  "author": "Boat Life Detroit LLC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skylabcrgr-crypto/DetroitBoatLife/issues"
+  },
+  "homepage": "https://github.com/skylabcrgr-crypto/DetroitBoatLife#readme",
+  "dependencies": {
+    "@types/node": "^25.6.0",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "autoprefixer": "^10.5.0",
+    "eslint": "^9.39.4",
+    "eslint-config-next": "^16.2.4",
+    "framer-motion": "^12.38.0",
+    "lucide-react": "^1.9.0",
+    "next": "^16.2.4",
+    "postcss": "^8.5.10",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5",
+    "tailwindcss": "^4.2.4",
+    "typescript": "^6.0.3"
+  }
+}
